@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DotNetSelenium
+build_property.ProjectDir = /Users/abhisheksharma/Desktop/Dot net/VM-DotNet-Substore/VM-DotNet_PL2-Set3(Substore-Module)-With 9TCs Template/DotNetSelenium/
